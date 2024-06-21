@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=Chimera Ubuntu
+Description=Ubuntu logo with chimera and Eb3
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/chimera-ubuntu
+ScriptFile=/usr/share/plymouth/themes/chimera-ubuntu/chimera-ubuntu.script
+UseFirmwareBackground=false
