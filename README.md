@@ -62,7 +62,6 @@ directory and invoke the `install` script with the `uninstall` argument:
 
 ```shell
 cd path/to/chimera-ubuntu-plymouth-theme
-./install uninstall
 ```
 
 Make the "uninstall" file executable:
